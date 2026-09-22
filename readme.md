@@ -17,4 +17,4 @@
 
 ## Enlace al sitio publicado
 
-url: vacio
+url: https://tallerintegradorgonzalez.netlify.app/
